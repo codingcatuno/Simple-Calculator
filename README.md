@@ -55,17 +55,25 @@ If the user enters an invalid option, such as a non-number or unsupported operat
 ### Example:
 
 ```text
-Type the operator of the FIVE options below
+Welcome to the Simple Calculator by Cyril D. Tchouta-Moussa
+-----------------------------------------------------------
+Type the OPERATOR of the FIVE options below
 ------------------------------------
 + | Addition
 - | Subtraction
 * | Multiplication
 / | Division
 Q | EXIT
-Option: +
-Enter the first number: 5
-Enter the second number: 3
+Option:+
+
+Addition
+Please enter the first number:5
+
+Please enter the second number:3
+
 The result is: 8
+
+Press Enter To continue.
  ```
 
 ## Contributing
